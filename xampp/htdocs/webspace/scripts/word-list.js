@@ -1,0 +1,5 @@
+const wordList = [
+    {
+        word: "ahzos",
+    },
+];

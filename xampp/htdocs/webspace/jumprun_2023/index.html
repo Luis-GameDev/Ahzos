@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<!-- Angaben für Suchmaschinen und zur Verarbeitung durch den Browser -->
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Ahzos - Hauptmenü</title>
+		<link rel="icon" href="" type="image/png" />
+		<link rel="stylesheet" href="index.css" />
+		<script src="index.js"></script>	
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.birds.min.js"></script>
+	</head>
+	<body>
+		<div id="bg">
+			<script>
+				VANTA.BIRDS({
+				el: "#bg",
+				mouseControls: true,
+				touchControls: true,
+				gyroControls: false,
+				minHeight: 200.00,
+				minWidth: 200.00,
+				scale: 1.00,
+				scaleMobile: 1.00,
+				backgroundColor: 0x0,
+				color1: 0xffffff,
+				color2: 0xffffff,
+				wingSpan: 10.00,
+				separation: 100.00,
+				alignment: 1.00,
+				speedLimit: 2.00,
+				quantity: 3.10,
+				backgroundAlpha: 0.00
+			})
+			</script>
+			<audio id="background-music" autoplay loop>
+				<source src="media/av/menue.mp3" type="audio/mpeg">
+				Your browser does not support the audio element.
+			</audio>
+			<h5 id="ahzos"> Ahzos </h5>
+			<div id="shaniaImage" style="display: none">
+				<img src="media/img/shania.png" alt="Shania Bild">
+				<p> Shania, 19, Batman </p>
+			</div>
+			<div id="luisImage" style="display: none">
+				<img src="media/img/luis.png" alt="Luis Bild">
+				<p> Luis, 17</p>
+			</div>
+			<nav id="Menueleiste">
+				<nav-menu>
+					<menu-head> 
+						<a id="abc" onclick="spielInitialisieren()">Level 1 Starten</a>
+					</menu-head>
+					<nav-menu>
+						<menu-head>
+							<a onclick="toggleChapters()">Level Auswahl</a>
+						</menu-head>
+						<menu-body id="chaptersContainer" style="display: none;">
+							<div class="chapter-block">
+                                <div class="chapter">Kapitel 1</div>
+                                <div class="levels">
+                                    <div id="1" class="level" onclick="level(1)">Level 1</div>
+                                    <div id="2" class="level" onclick="level(2)">Level 2</div>
+                                    <div id="3" class="level" onclick="level(3)">Level 3</div>
+                                    <div id="4" class="level" onclick="level(4)">Level 4</div>
+                                    <div id="5" class="level" onclick="level(5)">Level 5</div>
+                                </div>
+                            </div>
+                            <div class="chapter-block">
+                                <div class="chapter">Kapitel 2</div>
+                                <div class="levels">
+                                    <div id="6" class="level" onclick="level(6)">Level 6</div>
+                                    <div id="7" class="level" onclick="level(7)">Level 7</div>
+                                    <div id="8" class="level" onclick="level(8)">Level 8</div>
+                                    <div id="9" class="level" onclick="level(9)">Level 9</div>
+                                    <div id="10" class="level" onclick="level(10)">Level 10</div>
+                                </div>
+                                <div class="chapter-block">
+                                    <div class="chapter">Kapitel 3</div>
+                                    <div class="levels">
+                                        <div id="11" class="level" onclick="level(11)">Level 11</div>
+                                        <div id="12" class="level" onclick="level(12)">Level 12</div>
+                                        <div id="13" class="level" onclick="level(13)">Level 13</div>
+                                        <div id="14" class="level" onclick="level(14)">Level 14</div>
+                                        <div id="15" class="level" onclick="level(15)">Level 15</div>
+                                    </div>
+                                </div>
+                                <div class="chapter-block">
+                                    <div class="chapter">Kapitel 4</div>
+                                    <div class="levels">
+                                        <div class="levels">
+                                            <div id="16" class="level" onclick="level(16)">Level 16</div>
+                                            <div id="17" class="level" onclick="level(17)">Level 17</div>
+                                            <div id="18" class="level" onclick="level(18)">Level 18</div>
+                                            <div id="19" class="level" onclick="level(19)">Level 19</div>
+                                            <div id="20" class="level" onclick="level(20)">Level 20</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="chapter-block">
+                                    <div class="chapter">Kapitel 5</div>
+                                    <div class="levels">
+                                        <div class="levels">
+                                            <div id="21" class="level" onclick="level(21)">Level 21</div>
+                                            <div id="22" class="level" onclick="level(22)">Level 22</div>
+                                            <div id="23" class="level" onclick="level(23)">Level 23</div>
+                                            <div id="24" class="level" onclick="level(24)">Level 24</div>
+                                            <div id="25" class="level" onclick="level(25)">Level 25</div>
+                                        </div>
+                                    </div>
+                                </div>
+							</div>						
+						</menu-body>
+					</nav-menu>
+					<menu-head>
+						<a onclick="toggleSkinSelection()">Skin Auswahl</a>
+					</menu-head>
+					<menu-body id="skinSelection" style="display: none;">
+						<a onclick="showGif('minotaurGif')">Minotaur</a>
+						<a onclick="showGif('mermaidGif')">Mermaid</a>
+						<a onclick="showGif('sphinxGif')">Sphinx</a>
+						<a onclick="showGif('griffinGif')">Griffin</a>
+						<a onclick="showGif('devilGif')">Devil</a>
+					</menu-body>
+				</nav-menu>
+				<nav-menu>
+					<menu-head>
+						<a>Credits</a>
+					</menu-head>
+					<menu-body>
+						<a href="#">Leandra - Projektleitung</a>	
+						<a onclick="showLuisImage()">Luis - Lead-Developer</a>
+						<a onclick="showShaniaImage()">Shania - Lead-Artist</a>
+					</menu-body>
+				</nav-menu>
+			</nav>
+		</div>
+		<!-- code by Shania-->
+		<div class="gif-container" id="minotaurGif" style="display: none;">
+			<img src="media/img/minotaur.gif" alt="Minotaur Gif">
+			<div class="gif-text">Text zum Minotaur</div>
+		</div>
+		<div class="gif-container" id="mermaidGif" style="display: none;">
+			<img src="media/img/mermaid.gif" alt="Mermaid Gif">
+			<div class="gif-text">Text zum Mermaid</div>
+		</div>
+		<div id="sphinxGif" style="display: none;">
+			<img src="media/img/sphinx.gif" alt="Sphinx Gif">
+		</div>
+		<div id="griffinGif" style="display: none;">
+			<img src="media/img/griffin.gif" alt="Griffin Gif">
+		</div>
+		<div id="devilGif" style="display: none;">
+			<img src="media/img/devil.gif" alt="Devil Gif">
+		</div>
+		<div id="skinSelectionImage" style="display: none; position: fixed; top: 0; left: 0; z-index: 999;">
+			<img src="media/img/skinauswahl.png" alt="Skin Auswahl Bild">
+		</div>
+		<a id="resetLS" onclick="resetLS()" style="color: white;">Spielstand zurücksetzen</a>
+		<div id="custom-mouse">
+			<img id="custom-mouse" src="media/img/maus.png" alt="Benutzerdefinierte Maus">
+		</div>
+		<div id="button-container">
+			<button id="top-right-button" onclick="toggleMusic()"></button>
+		</div>
+	</body>
+</html>

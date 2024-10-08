@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangman Game JavaScript | CodingNepal</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="scripts/script.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.birds.min.js"></script>
+</head>
+<body>
+    <div class="black-overlay" id="black-overlay">
+        <div class="content">
+            <p>... oder klicke irgendwo, um zu einem Minigame zu gelangen :D.</p>
+            <button id="zum-Spiel">Zum Spiel</button>
+        </div>
+    </div>
+    <div class="game-modal" id="game-modal">
+        <div class="content">
+            <h4>Game Over!</h4>
+            <p>Der Name lautet: <b>Ahzos</b></p>
+            <button class="zum-Spiel">Zum Spiel</button>
+        </div>
+    </div>
+    <div class="container">
+        <div class="hangman-box">
+            <img src="#" draggable="false" alt="hangman-img">
+            <h1>Errate den Spielnamen</h1>
+        </div>
+        <div class="game-box">
+            <ul class="word-display"></ul>
+            <h4 class="guesses-text">Inkorrekt: <b></b></h4>
+            <div class="keyboard"></div>
+        </div>
+    </div>
+    <div id="bg"> 
+        <script>
+            VANTA.BIRDS({
+            el: "#bg",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00,
+            backgroundColor: 0x0,
+            color1: 0xffffff,
+            color2: 0xffffff,
+            wingSpan: 10.00,
+            separation: 100.00,
+            alignment: 1.00,
+            speedLimit: 2.00,
+            quantity: 3.10,
+            backgroundAlpha: 0.00
+        })
+        </script>
+</body>
+</html>

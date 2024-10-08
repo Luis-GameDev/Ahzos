@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<!-- Angaben für Suchmaschinen und zur Verarbeitung durch den Browser -->
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Ahzos - Jump &amp; Run</title>
+		<link rel="stylesheet" href="jumprun.css" />
+		<script src="Spieler.js"></script>
+		<script src="Maps.js"></script>
+		<script src="jumprun.js"></script>
+	</head>
+	<body> 
+		<audio autoplay loop> 
+		  <source src="media/av/zelda.mp3" type="audio/mpeg">
+		  Your browser does not support the audio element.
+		</audio>
+		<main>		
+			<div id="Bildquellen">
+				<img src="media/img/hintergrund.png" alt="Hintergrund" id="Hintergrund1" />
+				<img src="media/img/hintergrund2.png" alt="Hintergrund" id="Hintergrund2" />
+				<img src="media/img/hintergrund3.png" alt="Hintergrund" id="Hintergrund3" />
+				<img src="media/img/hintergrund4.png" alt="Hintergrund" id="Hintergrund4" />
+				<img src="media/img/hintergrund5.png" alt="Hintergrund" id="Hintergrund5" />
+				<img src="media/img/tileset.png" alt="Tileset" id="Tileset" />
+				<img src="media/img/spritesheet.png" alt="Spritesheet" id="Spritesheet" />
+				<img src="media/img/bullet.png" alt="bullet" id="bullet"/> 
+				<source src="media/av/jump.mp3" type="audio/mp3" id="jump">
+			</div>
+			<div id="Spielfeld">
+			<!-- ab hier | code by Luis -->
+				<div id="UI" style="display: flex">
+					<img onclick="openSettings()" draggable="false" id="gear" class="UIcontent" src="media/img/gear.png"/>
+					<div id="heart-container" style="display: flex; margin-left: 2vw">
+						<script type="text/javascript">
+						// erstellt beliebig viele herzen (img tags) im heartcontainer bis zum maximum von (var maxhp) | code by Luis
+						let heartcontainer = document.getElementById('heart-container') ;
+						for( let i = 1; i <= maxhp; i++ ) {
+							let image = document.createElement('img') ;
+							image.setAttribute('src', 'media/img/heart.gif');
+							image.setAttribute('id', 'heart' + i) ;
+							image.setAttribute('class', 'heart') ;
+							image.setAttribute('draggable', 'false') ;
+							heartcontainer.appendChild(image) ;
+						}</script>
+						<!-- image tags werden genau so erstellt wie hier im beispiel | code by Luis -->
+				   <!-- <img id="heart1" class="heart" draggable="false" src="media/heart.gif"/>
+						<img id="heart2" class="heart" draggable="false" src="media/heart.gif"/>
+						<img id="heart3" class="heart" draggable="false" src="media/heart.gif"/>
+						<img id="heart4" class="heart" draggable="false" src="media/heart.gif"/>
+						<img id="heart5" class="heart" draggable="false" src="media/heart.gif"/> -->
+					</div>		
+				<a id="abc" onclick="spielInitialisieren()"></a>
+					<h1 id="levelAusgewaehlt" onclick="showLevelWindow()">Level 1</h1>
+				</div>
+				<div id="settings"> <!--  settings | code by Luis -->
+					<div onclick="closeSettings()" id="X">
+						X
+					</div>
+					<div style="padding: 3vw">
+						<label for="audioVolumeSlider">Audio Lautstärke:</label> <!-- audio Lautstärke | code by Shania -->
+						<input type="range" id="audioVolumeSlider" min="0" max="100" value="50" onchange="adjustVolume(this.value)">
+						<label for="slider">UI Skalierung:</label> 
+						<!-- oninput wird hier die function updateSlider ausgeführt sodass der wert live ist und sofort angewendet wird | code by Luis -->
+						<input type="range" id="slider" value="1" min="0.75" max="1.5" step="0.01" oninput="updateSlider(this.value)" style="cursor: pointer">
+						<span style="color: white" id="UIscale"></span><br><br>
+						<button id="againLvl" onclick="javascript:location.reload()">wiederholen</button> <br><br>
+						<button id="hauptmenue" onclick="weiterleiten()" style="cursor: pointer">Hauptmenue</button>
+					</div>
+				</div>
+				<div id="win"> <!-- ab hier win und death function | code by Luis -->
+					<h1>Du hast das Level geschafft!</h1>
+					<h2 id="dauerWin">Error</h2>
+					<button id="nextLvl" onclick="nextLevel()">Nächstes Level</button> <br><br>
+					<button onclick="javascript:location.reload()">Level wiederholen</button>  <br><br>
+					<button onclick="weiterleiten()">Zurück zum Hauptmenü</button>
+				</div>
+				<div id="death">
+					<h1>Du bist gestorben!</h1>
+					<img src="media/img/death.png" alt="Death Bild">
+					<button onclick="javascript:location.reload()">Level wiederholen</button> <br><br>
+					<button onclick="weiterleiten()">Zurück zum Hauptmenü</button>
+				</div>
+			</div>
+			<div id="Anzeige"></div>
+			<div id="audio" style="display: none"></div>
+			<div id="timerContainer">
+				<div id="timer"></div>
+				<div id="timerCountdown"></div>
+			</div>
+			<div id="raindrop"></div>
+			 <button id="fullscreenButton" draggable="false" onclick="toggleFullscreen()"></button> <!-- Fullscreen Button Code by Shania -->
+			
+		</main>
+	</body>
+</html>

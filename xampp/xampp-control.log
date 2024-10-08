@@ -1,0 +1,501 @@
+12:50:17  [main] 	Initialisere Control Panel
+12:50:17  [main] 	Windows Version:  Enterprise  64-bit
+12:50:17  [main] 	XAMPP Version: 8.1.10
+12:50:17  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:50:17  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+12:50:17  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+12:50:17  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+12:50:17  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+12:50:17  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+12:50:17  [main] 	Voraussetzungen werden geprüft
+12:50:20  [main] 	Alle Voraussetzungen sind erfüllt
+12:50:20  [main] 	Initialisiere Module
+12:50:20  [main] 	Das FileZilla Modul ist deaktiviert
+12:50:20  [main] 	Das Mercury Modul ist deaktiviert
+12:50:20  [main] 	Starte Check-Timer
+12:50:20  [main] 	Control Panel bereit
+12:50:36  [Apache] 	Versuche Apache zu starten...
+12:50:36  [Apache] 	Statusänderung erkannt: gestartet
+15:50:22  [main] 	Deinitialisiere Module
+15:50:22  [main] 	Deinitialisiere Control Panel
+
+11:33:09  [main] 	Initialisere Control Panel
+11:33:09  [main] 	Windows Version:  Enterprise  64-bit
+11:33:09  [main] 	XAMPP Version: 8.1.10
+11:33:09  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:33:09  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+11:33:09  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+11:33:09  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+11:33:09  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+11:33:09  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+11:33:10  [main] 	Voraussetzungen werden geprüft
+11:33:10  [main] 	Alle Voraussetzungen sind erfüllt
+11:33:10  [main] 	Initialisiere Module
+11:33:10  [main] 	Das FileZilla Modul ist deaktiviert
+11:33:10  [main] 	Das Mercury Modul ist deaktiviert
+11:33:10  [main] 	Starte Check-Timer
+11:33:10  [main] 	Control Panel bereit
+11:33:13  [Apache] 	Versuche Apache zu starten...
+11:33:13  [Apache] 	Statusänderung erkannt: gestartet
+15:08:23  [Apache] 	stoppe Modul Apache (PID: 34268)
+15:08:23  [Apache] 	stoppe Modul Apache (PID: 33012)
+15:08:23  [Apache] 	Statusänderung erkannt: gestoppt
+15:08:27  [main] 	Deinitialisiere Module
+15:08:27  [main] 	Deinitialisiere Control Panel
+
+15:10:09  [main] 	Initialisere Control Panel
+15:10:09  [main] 	Windows Version:  Enterprise  64-bit
+15:10:09  [main] 	XAMPP Version: 8.1.10
+15:10:09  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+15:10:09  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+15:10:09  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+15:10:09  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+15:10:09  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+15:10:09  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+15:10:09  [main] 	Voraussetzungen werden geprüft
+15:10:10  [main] 	Alle Voraussetzungen sind erfüllt
+15:10:10  [main] 	Initialisiere Module
+15:10:10  [main] 	Das FileZilla Modul ist deaktiviert
+15:10:10  [main] 	Das Mercury Modul ist deaktiviert
+15:10:10  [main] 	Starte Check-Timer
+15:10:10  [main] 	Control Panel bereit
+15:10:14  [Apache] 	Versuche Apache zu starten...
+15:10:14  [Apache] 	Statusänderung erkannt: gestartet
+15:51:05  [Apache] 	stoppe Modul Apache (PID: 7712)
+15:51:05  [Apache] 	stoppe Modul Apache (PID: 24188)
+15:51:06  [Apache] 	Statusänderung erkannt: gestoppt
+15:51:08  [main] 	Deinitialisiere Module
+15:51:08  [main] 	Deinitialisiere Control Panel
+
+09:07:23  [main] 	Initialisere Control Panel
+09:07:23  [main] 	Windows Version:  Enterprise  64-bit
+09:07:23  [main] 	XAMPP Version: 8.1.10
+09:07:23  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+09:07:24  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+09:07:24  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+09:07:24  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+09:07:24  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+09:07:24  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+09:07:24  [main] 	Voraussetzungen werden geprüft
+09:07:26  [main] 	Alle Voraussetzungen sind erfüllt
+09:07:26  [main] 	Initialisiere Module
+09:07:26  [main] 	Das FileZilla Modul ist deaktiviert
+09:07:26  [main] 	Das Mercury Modul ist deaktiviert
+09:07:26  [main] 	Starte Check-Timer
+09:07:26  [main] 	Control Panel bereit
+09:07:28  [Apache] 	Versuche Apache zu starten...
+09:07:29  [Apache] 	Statusänderung erkannt: gestartet
+15:45:55  [Apache] 	stoppe Modul Apache (PID: 19784)
+15:45:55  [Apache] 	stoppe Modul Apache (PID: 71016)
+15:45:55  [Apache] 	Statusänderung erkannt: gestoppt
+15:45:59  [main] 	Deinitialisiere Module
+15:45:59  [main] 	Deinitialisiere Control Panel
+
+12:21:15  [main] 	Initialisere Control Panel
+12:21:15  [main] 	Windows Version:  Enterprise  64-bit
+12:21:15  [main] 	XAMPP Version: 8.1.10
+12:21:15  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:21:15  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+12:21:15  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+12:21:15  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+12:21:15  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+12:21:15  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+12:21:15  [main] 	Voraussetzungen werden geprüft
+12:21:18  [main] 	Alle Voraussetzungen sind erfüllt
+12:21:18  [main] 	Initialisiere Module
+12:21:18  [mysql] 	XAMPP MySQL ist bereits gestartet auf Port 3306
+12:21:18  [main] 	Das FileZilla Modul ist deaktiviert
+12:21:18  [main] 	Das Mercury Modul ist deaktiviert
+12:21:18  [main] 	Starte Check-Timer
+12:21:18  [main] 	Control Panel bereit
+12:21:21  [mysql] 	Versuche MySQL zu beenden...
+12:21:21  [mysql] 	Statusänderung erkannt: gestoppt
+12:21:30  [Apache] 	Versuche Apache zu starten...
+12:21:30  [Apache] 	Statusänderung erkannt: gestartet
+15:43:55  [main] 	Deinitialisiere Module
+15:43:55  [main] 	Deinitialisiere Control Panel
+
+17:09:14  [main] 	Initialisere Control Panel
+17:09:14  [main] 	Windows Version:  Enterprise  64-bit
+17:09:14  [main] 	XAMPP Version: 8.1.10
+17:09:14  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+17:09:14  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+17:09:14  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+17:09:14  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+17:09:14  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+17:09:14  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+17:09:14  [main] 	Voraussetzungen werden geprüft
+17:09:14  [main] 	Alle Voraussetzungen sind erfüllt
+17:09:14  [main] 	Initialisiere Module
+17:09:14  [main] 	Das FileZilla Modul ist deaktiviert
+17:09:14  [main] 	Das Mercury Modul ist deaktiviert
+17:09:14  [Tomcat] 	Problem festgestellt!
+17:09:14  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+17:09:14  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+17:09:14  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+17:09:14  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+17:09:14  [main] 	Starte Check-Timer
+17:09:14  [main] 	Control Panel bereit
+17:09:17  [Apache] 	Versuche Apache zu starten...
+17:09:18  [Apache] 	Statusänderung erkannt: gestartet
+20:56:55  [Apache] 	stoppe Modul Apache (PID: 34792)
+20:56:55  [Apache] 	stoppe Modul Apache (PID: 16260)
+20:56:55  [Apache] 	Statusänderung erkannt: gestoppt
+20:56:58  [main] 	Deinitialisiere Module
+20:56:58  [main] 	Deinitialisiere Control Panel
+
+16:19:17  [main] 	Initialisere Control Panel
+16:19:17  [main] 	Windows Version:  Enterprise  64-bit
+16:19:17  [main] 	XAMPP Version: 8.1.10
+16:19:17  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+16:19:17  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+16:19:17  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+16:19:17  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+16:19:17  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+16:19:17  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+16:19:17  [main] 	Voraussetzungen werden geprüft
+16:19:18  [main] 	Alle Voraussetzungen sind erfüllt
+16:19:18  [main] 	Initialisiere Module
+16:19:18  [main] 	Das FileZilla Modul ist deaktiviert
+16:19:18  [main] 	Das Mercury Modul ist deaktiviert
+16:19:18  [Tomcat] 	Problem festgestellt!
+16:19:18  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+16:19:18  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+16:19:18  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+16:19:18  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+16:19:18  [main] 	Starte Check-Timer
+16:19:18  [main] 	Control Panel bereit
+16:19:20  [Apache] 	Versuche Apache zu starten...
+16:19:21  [Apache] 	Statusänderung erkannt: gestartet
+00:05:35  [Apache] 	stoppe Modul Apache (PID: 29572)
+00:05:35  [Apache] 	stoppe Modul Apache (PID: 28912)
+00:05:35  [Apache] 	Statusänderung erkannt: gestoppt
+00:05:37  [main] 	Deinitialisiere Module
+00:05:37  [main] 	Deinitialisiere Control Panel
+
+19:20:24  [main] 	Initialisere Control Panel
+19:20:24  [main] 	Windows Version:  Enterprise  64-bit
+19:20:24  [main] 	XAMPP Version: 8.1.10
+19:20:24  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:20:24  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+19:20:24  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+19:20:24  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+19:20:24  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+19:20:24  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+19:20:24  [main] 	Voraussetzungen werden geprüft
+19:20:25  [main] 	Alle Voraussetzungen sind erfüllt
+19:20:25  [main] 	Initialisiere Module
+19:20:25  [main] 	Das FileZilla Modul ist deaktiviert
+19:20:25  [main] 	Das Mercury Modul ist deaktiviert
+19:20:25  [Tomcat] 	Problem festgestellt!
+19:20:25  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+19:20:25  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+19:20:25  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+19:20:25  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+19:20:25  [main] 	Starte Check-Timer
+19:20:25  [main] 	Control Panel bereit
+19:22:44  [Apache] 	Versuche Apache zu starten...
+19:22:44  [Apache] 	Statusänderung erkannt: gestartet
+21:18:21  [Apache] 	stoppe Modul Apache (PID: 36120)
+21:18:21  [Apache] 	stoppe Modul Apache (PID: 36244)
+21:18:21  [Apache] 	Statusänderung erkannt: gestoppt
+21:18:22  [main] 	Deinitialisiere Module
+21:18:22  [main] 	Deinitialisiere Control Panel
+
+11:37:01  [main] 	Initialisere Control Panel
+11:37:01  [main] 	Windows Version:  Enterprise  64-bit
+11:37:01  [main] 	XAMPP Version: 8.1.10
+11:37:01  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:37:01  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+11:37:01  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+11:37:01  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+11:37:01  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+11:37:01  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+11:37:01  [main] 	Voraussetzungen werden geprüft
+11:37:03  [main] 	Alle Voraussetzungen sind erfüllt
+11:37:03  [main] 	Initialisiere Module
+11:37:03  [main] 	Das FileZilla Modul ist deaktiviert
+11:37:03  [main] 	Das Mercury Modul ist deaktiviert
+11:37:03  [Tomcat] 	Problem festgestellt!
+11:37:03  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+11:37:03  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+11:37:03  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+11:37:03  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+11:37:03  [main] 	Starte Check-Timer
+11:37:03  [main] 	Control Panel bereit
+11:39:09  [Apache] 	Versuche Apache zu starten...
+11:39:10  [Apache] 	Statusänderung erkannt: gestartet
+22:36:06  [Apache] 	stoppe Modul Apache (PID: 28436)
+22:36:06  [Apache] 	stoppe Modul Apache (PID: 28524)
+22:36:06  [Apache] 	Statusänderung erkannt: gestoppt
+22:36:07  [main] 	Deinitialisiere Module
+22:36:07  [main] 	Deinitialisiere Control Panel
+
+10:39:47  [main] 	Initialisere Control Panel
+10:39:47  [main] 	Windows Version:  Enterprise  64-bit
+10:39:47  [main] 	XAMPP Version: 8.1.10
+10:39:47  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:39:47  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+10:39:47  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+10:39:47  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+10:39:47  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+10:39:47  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+10:39:47  [main] 	Voraussetzungen werden geprüft
+10:39:49  [main] 	Alle Voraussetzungen sind erfüllt
+10:39:49  [main] 	Initialisiere Module
+10:39:49  [main] 	Das FileZilla Modul ist deaktiviert
+10:39:49  [main] 	Das Mercury Modul ist deaktiviert
+10:39:49  [Tomcat] 	Problem festgestellt!
+10:39:49  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+10:39:49  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+10:39:49  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+10:39:49  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+10:39:49  [main] 	Starte Check-Timer
+10:39:49  [main] 	Control Panel bereit
+10:39:54  [Apache] 	Versuche Apache zu starten...
+10:39:54  [Apache] 	Statusänderung erkannt: gestartet
+23:15:59  [Apache] 	stoppe Modul Apache (PID: 26280)
+23:15:59  [Apache] 	stoppe Modul Apache (PID: 23292)
+23:16:00  [Apache] 	Statusänderung erkannt: gestoppt
+23:16:01  [main] 	Deinitialisiere Module
+23:16:01  [main] 	Deinitialisiere Control Panel
+
+13:57:25  [main] 	Initialisere Control Panel
+13:57:25  [main] 	Windows Version:  Enterprise  64-bit
+13:57:25  [main] 	XAMPP Version: 8.1.10
+13:57:25  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+13:57:25  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+13:57:25  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+13:57:25  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+13:57:25  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+13:57:25  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+13:57:25  [main] 	Voraussetzungen werden geprüft
+13:57:26  [main] 	Alle Voraussetzungen sind erfüllt
+13:57:26  [main] 	Initialisiere Module
+13:57:26  [main] 	Das FileZilla Modul ist deaktiviert
+13:57:26  [main] 	Das Mercury Modul ist deaktiviert
+13:57:26  [Tomcat] 	Problem festgestellt!
+13:57:26  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+13:57:26  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+13:57:26  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+13:57:26  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+13:57:26  [main] 	Starte Check-Timer
+13:57:26  [main] 	Control Panel bereit
+14:08:27  [Apache] 	Versuche Apache zu starten...
+14:08:27  [Apache] 	Statusänderung erkannt: gestartet
+22:38:25  [Apache] 	stoppe Modul Apache (PID: 1064)
+22:38:25  [Apache] 	stoppe Modul Apache (PID: 27948)
+22:38:25  [Apache] 	Statusänderung erkannt: gestoppt
+22:38:28  [main] 	Deinitialisiere Module
+22:38:28  [main] 	Deinitialisiere Control Panel
+
+15:02:44  [main] 	Initialisere Control Panel
+15:02:44  [main] 	Windows Version:  Enterprise  64-bit
+15:02:44  [main] 	XAMPP Version: 8.1.10
+15:02:44  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+15:02:44  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+15:02:44  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+15:02:44  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+15:02:44  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+15:02:44  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+15:02:44  [main] 	Voraussetzungen werden geprüft
+15:02:45  [main] 	Alle Voraussetzungen sind erfüllt
+15:02:45  [main] 	Initialisiere Module
+15:02:45  [main] 	Das FileZilla Modul ist deaktiviert
+15:02:45  [main] 	Das Mercury Modul ist deaktiviert
+15:02:45  [Tomcat] 	Problem festgestellt!
+15:02:45  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+15:02:45  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+15:02:45  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+15:02:45  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+15:02:45  [main] 	Starte Check-Timer
+15:02:45  [main] 	Control Panel bereit
+15:02:48  [Apache] 	Versuche Apache zu starten...
+15:02:48  [Apache] 	Statusänderung erkannt: gestartet
+22:07:20  [Apache] 	Statusänderung erkannt: gestoppt
+22:07:20  [Apache] 	Fehler: Apache wurde unerwartet beendet
+22:07:20  [Apache] 	Ursache könnte ein geblockter Port, fehlende Abhängigkeiten,
+22:07:20  [Apache] 	fehlende Berechtigungen, ein Absturz oder ein Abbruch einer anderen Methode sein.
+22:07:20  [Apache] 	Drücke den Logs Button um error logs zu sehen und prüfe
+22:07:20  [Apache] 	im Windows Event Viewer für weitere Hinweise
+22:07:20  [Apache] 	Wenn du weitere Hilfe benötigst, kopiere den kompletten Inhalt des Log Fensters
+22:07:20  [Apache] 	und füge ihn als Ergänzung in einem neuen Forum Eintrag hinzu.
+22:07:21  [main] 	Deinitialisiere Module
+22:07:21  [main] 	Deinitialisiere Control Panel
+
+10:56:11  [main] 	Initialisere Control Panel
+10:56:11  [main] 	Windows Version:  Enterprise  64-bit
+10:56:11  [main] 	XAMPP Version: 8.1.10
+10:56:11  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:56:11  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+10:56:11  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+10:56:11  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+10:56:11  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+10:56:11  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+10:56:11  [main] 	Voraussetzungen werden geprüft
+10:56:13  [main] 	Alle Voraussetzungen sind erfüllt
+10:56:13  [main] 	Initialisiere Module
+10:56:13  [main] 	Das FileZilla Modul ist deaktiviert
+10:56:13  [main] 	Das Mercury Modul ist deaktiviert
+10:56:13  [Tomcat] 	Problem festgestellt!
+10:56:13  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+10:56:13  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+10:56:13  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+10:56:13  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+10:56:13  [main] 	Starte Check-Timer
+10:56:13  [main] 	Control Panel bereit
+10:56:20  [Apache] 	Versuche Apache zu starten...
+10:56:20  [Apache] 	Statusänderung erkannt: gestartet
+22:02:36  [Apache] 	stoppe Modul Apache (PID: 14156)
+22:02:36  [Apache] 	stoppe Modul Apache (PID: 25160)
+22:02:36  [Apache] 	Statusänderung erkannt: gestoppt
+22:02:37  [main] 	Deinitialisiere Module
+22:02:37  [main] 	Deinitialisiere Control Panel
+
+23:19:21  [main] 	Initialisere Control Panel
+23:19:21  [main] 	Windows Version:  Enterprise  64-bit
+23:19:21  [main] 	XAMPP Version: 8.1.10
+23:19:21  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+23:19:21  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+23:19:21  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+23:19:21  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+23:19:21  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+23:19:21  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+23:19:21  [main] 	Voraussetzungen werden geprüft
+23:19:22  [main] 	Alle Voraussetzungen sind erfüllt
+23:19:22  [main] 	Initialisiere Module
+23:19:22  [main] 	Das FileZilla Modul ist deaktiviert
+23:19:22  [main] 	Das Mercury Modul ist deaktiviert
+23:19:22  [Tomcat] 	Problem festgestellt!
+23:19:22  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+23:19:22  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+23:19:22  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+23:19:22  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+23:19:22  [main] 	Starte Check-Timer
+23:19:22  [main] 	Control Panel bereit
+23:19:28  [Apache] 	Versuche Apache zu starten...
+23:19:28  [Apache] 	Statusänderung erkannt: gestartet
+00:52:36  [Apache] 	stoppe Modul Apache (PID: 38240)
+00:52:36  [Apache] 	stoppe Modul Apache (PID: 31228)
+00:52:36  [Apache] 	Statusänderung erkannt: gestoppt
+00:52:37  [main] 	Deinitialisiere Module
+00:52:37  [main] 	Deinitialisiere Control Panel
+
+19:01:22  [main] 	Initialisere Control Panel
+19:01:22  [main] 	Windows Version:  Enterprise  64-bit
+19:01:22  [main] 	XAMPP Version: 8.1.10
+19:01:22  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:01:22  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+19:01:22  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+19:01:22  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+19:01:22  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+19:01:22  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+19:01:22  [main] 	Voraussetzungen werden geprüft
+19:01:24  [main] 	Alle Voraussetzungen sind erfüllt
+19:01:24  [main] 	Initialisiere Module
+19:01:24  [mysql] 	XAMPP MySQL ist bereits gestartet auf Port 3306
+19:01:24  [main] 	Das FileZilla Modul ist deaktiviert
+19:01:24  [main] 	Das Mercury Modul ist deaktiviert
+19:01:24  [Tomcat] 	Problem festgestellt!
+19:01:24  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+19:01:24  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+19:01:24  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+19:01:24  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+19:01:24  [main] 	Starte Check-Timer
+19:01:24  [main] 	Control Panel bereit
+19:01:26  [Apache] 	Versuche Apache zu starten...
+19:01:26  [Apache] 	Statusänderung erkannt: gestartet
+19:01:27  [mysql] 	Versuche MySQL zu beenden...
+19:01:28  [mysql] 	Statusänderung erkannt: gestoppt
+22:53:46  [main] 	Deinitialisiere Module
+22:53:46  [main] 	Deinitialisiere Control Panel
+
+08:53:11  [main] 	Initialisere Control Panel
+08:53:11  [main] 	Windows Version:  Enterprise  64-bit
+08:53:11  [main] 	XAMPP Version: 8.1.10
+08:53:11  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+08:53:11  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+08:53:11  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+08:53:11  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+08:53:11  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+08:53:11  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+08:53:11  [main] 	Voraussetzungen werden geprüft
+08:53:13  [main] 	Alle Voraussetzungen sind erfüllt
+08:53:13  [main] 	Initialisiere Module
+08:53:13  [main] 	Das FileZilla Modul ist deaktiviert
+08:53:13  [main] 	Das Mercury Modul ist deaktiviert
+08:53:13  [Tomcat] 	Problem festgestellt!
+08:53:13  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+08:53:13  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+08:53:13  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+08:53:13  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+08:53:13  [main] 	Starte Check-Timer
+08:53:13  [main] 	Control Panel bereit
+08:53:16  [Apache] 	Versuche Apache zu starten...
+08:53:17  [Apache] 	Statusänderung erkannt: gestartet
+22:31:26  [Apache] 	Statusänderung erkannt: gestoppt
+22:31:27  [Apache] 	Fehler: Apache wurde unerwartet beendet
+22:31:27  [Apache] 	Ursache könnte ein geblockter Port, fehlende Abhängigkeiten,
+22:31:27  [Apache] 	fehlende Berechtigungen, ein Absturz oder ein Abbruch einer anderen Methode sein.
+22:31:27  [Apache] 	Drücke den Logs Button um error logs zu sehen und prüfe
+22:31:27  [Apache] 	im Windows Event Viewer für weitere Hinweise
+22:31:27  [Apache] 	Wenn du weitere Hilfe benötigst, kopiere den kompletten Inhalt des Log Fensters
+22:31:27  [Apache] 	und füge ihn als Ergänzung in einem neuen Forum Eintrag hinzu.
+22:31:27  [main] 	Deinitialisiere Module
+22:31:27  [main] 	Deinitialisiere Control Panel
+
+11:34:16  [main] 	Initialisere Control Panel
+11:34:16  [main] 	Windows Version:  Enterprise  64-bit
+11:34:16  [main] 	XAMPP Version: 8.1.10
+11:34:16  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+11:34:16  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+11:34:16  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+11:34:16  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+11:34:16  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+11:34:16  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+11:34:16  [main] 	Voraussetzungen werden geprüft
+11:34:18  [main] 	Alle Voraussetzungen sind erfüllt
+11:34:18  [main] 	Initialisiere Module
+11:34:18  [main] 	Das FileZilla Modul ist deaktiviert
+11:34:18  [main] 	Das Mercury Modul ist deaktiviert
+11:34:19  [Tomcat] 	Problem festgestellt!
+11:34:19  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+11:34:19  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+11:34:19  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+11:34:19  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+11:34:19  [main] 	Starte Check-Timer
+11:34:19  [main] 	Control Panel bereit
+11:34:24  [Apache] 	Versuche Apache zu starten...
+11:34:24  [Apache] 	Statusänderung erkannt: gestartet
+19:25:18  [main] 	Deinitialisiere Module
+19:25:18  [main] 	Deinitialisiere Control Panel
+
+20:39:39  [main] 	Initialisere Control Panel
+20:39:39  [main] 	Windows Version:  Enterprise  64-bit
+20:39:39  [main] 	XAMPP Version: 8.1.10
+20:39:39  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+20:39:39  [main] 	Dein Benutzerprofil besitzt keine Administratorenrechte! Das reicht aus für die meisten
+20:39:39  [main] 	Anwendungsfunktionen, aber wann immer du etwas mit Windows-Diensten tun möchtest,
+20:39:39  [main] 	wird eine Sicherheitsabfrage erscheinen oder etwas wird garnicht erst funktionieren!
+20:39:39  [main] 	Also denke daran diese Anwendung mit Administratorrechten zu starten!
+20:39:39  [main] 	XAMPP Installationsverzeichnis: "c:\xampp\"
+20:39:39  [main] 	Voraussetzungen werden geprüft
+20:39:41  [main] 	Alle Voraussetzungen sind erfüllt
+20:39:41  [main] 	Initialisiere Module
+20:39:41  [main] 	Das FileZilla Modul ist deaktiviert
+20:39:41  [main] 	Das Mercury Modul ist deaktiviert
+20:39:41  [Tomcat] 	Problem festgestellt!
+20:39:41  [Tomcat] 	Port 8080 in Benutzung von ""C:\Program Files\MiniTool ShadowMaker\AgentService.exe""!
+20:39:41  [Tomcat] 	Tomcat wird NICHT starten, wenn die konfigurierten Ports nicht frei sind!
+20:39:41  [Tomcat] 	Die blockierende Anwendung muss deinstalliert/deaktiviert/rekonfiguriert werden oder
+20:39:41  [Tomcat] 	Tomcat und das Control Panel müssen auf einen anderen Port zu lauschen
+20:39:41  [main] 	Starte Check-Timer
+20:39:41  [main] 	Control Panel bereit
+20:39:43  [Apache] 	Versuche Apache zu starten...
+20:39:43  [Apache] 	Statusänderung erkannt: gestartet
+20:41:58  [Apache] 	stoppe Modul Apache (PID: 36472)
+20:41:58  [Apache] 	stoppe Modul Apache (PID: 37092)
+20:41:58  [Apache] 	Statusänderung erkannt: gestoppt
+22:33:42  [main] 	Deinitialisiere Module
+22:33:42  [main] 	Deinitialisiere Control Panel
+
